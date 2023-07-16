@@ -1,2 +1,2 @@
 # zelda
-testgroud-zeldagame
+Pretty simple Zelda game using Kaboom.js
